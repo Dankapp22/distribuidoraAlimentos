@@ -20,7 +20,7 @@ public class DistribuidoraAlimentos {
         
         // Mensajes iniciales de bienvenida, mostrados en consola
         // "System.out.println" = instrucción para imprimir en pantalla con salto de línea
-        System.out.println("  BIENVENIDO A DISTRIBUIDORA JKT BROS.");
+        System.out.println("  BIENVENIDO A DISTRIBUIDORA AFC BROS.");
         System.out.println("======================================\n");
         
         System.out.println("Debe ingresar los siguientes datos : \n");
